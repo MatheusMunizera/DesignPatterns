@@ -20,7 +20,12 @@
       "ProjectGuid": "aa7ab0b0-8429-4a0d-a99c-a43e9f8ce2aa",
       "DisplayName": "Isp",
       "ColorIndex": 3
+    },
+    "16179a1e-fbce-493a-948a-bd922d119bbf": {
+      "ProjectGuid": "16179a1e-fbce-493a-948a-bd922d119bbf",
+      "DisplayName": "Dip",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
