@@ -1,0 +1,8 @@
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Ocp\obj\Debug\Ocp.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Ocp\obj\Debug\Ocp.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Ocp\obj\Debug\Ocp.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Ocp\bin\Debug\Ocp.exe.config
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Ocp\bin\Debug\Ocp.exe
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Ocp\bin\Debug\Ocp.pdb
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Ocp\obj\Debug\Ocp.exe
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Ocp\obj\Debug\Ocp.pdb

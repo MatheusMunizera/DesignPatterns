@@ -1,0 +1,8 @@
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Isp\bin\Debug\Isp.exe.config
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Isp\bin\Debug\Isp.exe
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Isp\bin\Debug\Isp.pdb
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Isp\obj\Debug\Isp.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Isp\obj\Debug\Isp.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Isp\obj\Debug\Isp.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Isp\obj\Debug\Isp.exe
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Isp\obj\Debug\Isp.pdb

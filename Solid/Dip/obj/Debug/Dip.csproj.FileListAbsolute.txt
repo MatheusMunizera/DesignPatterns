@@ -1,0 +1,8 @@
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Dip\bin\Debug\Dip.exe.config
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Dip\bin\Debug\Dip.exe
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Dip\bin\Debug\Dip.pdb
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Dip\obj\Debug\Dip.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Dip\obj\Debug\Dip.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Dip\obj\Debug\Dip.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Dip\obj\Debug\Dip.exe
+C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Dip\obj\Debug\Dip.pdb
