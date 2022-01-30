@@ -1,8 +1,0 @@
-C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Lsp\bin\Debug\Lsp.exe.config
-C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Lsp\bin\Debug\Lsp.exe
-C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Lsp\bin\Debug\Lsp.pdb
-C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Lsp\obj\Debug\Lsp.csproj.AssemblyReference.cache
-C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Lsp\obj\Debug\Lsp.csproj.SuggestedBindingRedirects.cache
-C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Lsp\obj\Debug\Lsp.csproj.CoreCompileInputs.cache
-C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Lsp\obj\Debug\Lsp.exe
-C:\Users\mathe\OneDrive - Universidade Anhembi Morumbi\Desktop\Pastas\Codes\csharp\Solid\Lsp\obj\Debug\Lsp.pdb
